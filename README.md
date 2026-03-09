@@ -4,7 +4,7 @@ This repository is used to sync files to servers at Ronzz.org from desktops for 
 
 ## Teleport
 
-- Base location on ronzz-servers
+- Base location on ronzz-servers  
   ```bash
   cd dokumento/ronzz-linux-server-processing-sync # base
   ```
